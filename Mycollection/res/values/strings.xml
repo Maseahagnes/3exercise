@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mycollection</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="numberone">numberone</string>
+    <string name="numbertwo">numbertwo</string>
+    <string name="result">result</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="enternumber">enternumber</string>
+    <string name="select a country">select a country</string>
+    <string name="btnadd">add</string>
+    <string name="btnsubtraction">subtraction</string>
+    <string name="btnback">back</string>
+    <string name="btntoast">toast</string>
+    <string name="btnincreament">increament</string>
+    <string name="btndecreament">decreament</string>
+    <string name="title_activity_addition">AdditionActivity</string>
+    <string name="title_activity_addition_screen">AdditionScreen</string>
+    <string name="title_activity_subtraction">Subtraction</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_counter_screen">CounterScreen</string>
+    <string name="title_activity_list_page">ListPage</string>
+    <string name="title_activity_countries">Countries</string>
+    <string name="spinner">select Nationality</string>
+    <string name="title_activity_toast_screen">ToastScreenActivity</string>
+
+    <string-array name="country">
+        <item>Kenya</item>
+        <item>Australia</item>
+        <item>USA</item>
+        <item>Canada</item>
+        <item>Netherlands</item>
+        <item>Algeria</item>
+        <item>Germany</item>
+        <item>Congo</item>
+        <item>Combola</item>
+        <item>Sijuingine</item>
+        <item>Nimechoka</item>
+    </string-array>
+
+    <string name="title_activity_tabs">TabsActivity</string>
+    <string name="title_activity_contact">ContactActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+</resources>
